@@ -16,8 +16,8 @@ The main idea is that a user can obtain the topK ranking products more similar t
 The objective of the project is to analyze and predict the occupation of the green and blue areas of a city based on data provided by sensors installed in the city
 
 <p float="left">
-  <img src="images/occup.png" width="300" />
   <img src="/images/prediction.png" width="300" /> 
+  <img src="images/occup.png" width="400" />
 </p>
 
 
