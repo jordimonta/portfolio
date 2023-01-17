@@ -12,7 +12,9 @@ The main idea is that a user can obtain the topK ranking products more similar t
 
 [Project Link](https://github.com/ferran-candela/upc-aidl-2021-image-retrieval)
 
-* ### Analyzing and predicting parking occupartion in different city areas <span style="color: red;">(Private - Company Project)</span>
+* ### Analyzing and predicting parking occupartion in different city areas 
+<span style="color: red;">(Private - Company Project)</span>
+<br>
 The objective of the project is to analyze and predict the occupation of the green and blue areas of a city based on data provided by sensors installed in the city
 
 <p float="left">
@@ -21,8 +23,13 @@ The objective of the project is to analyze and predict the occupation of the gre
 </p>
 
 
+* ### Choosing the best algorithm to apply to an image to improve its quality 
+<span style="color: red;">(Private - Company Project)</span>
+<br> 
+The method based on "Image retrieval system" allows us to choose the best algorithm based on the similarity between images and their features.
+The execution in milliseconds (CPU) is perfect for solutions in real time.
 
-
+<img src="images/similarity.png"/>
 <!-- Markdown link & img dfn's -->
 
 [header-url]:  images/portfolio_img.png
