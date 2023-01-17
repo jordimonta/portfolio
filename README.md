@@ -13,7 +13,7 @@ The main idea is that a user can obtain the topK ranking products more similar t
 [Project Link](https://github.com/ferran-candela/upc-aidl-2021-image-retrieval)
 
 * ### Analyzing and predicting parking occupartion in different city areas
-\textcolor{ red }{ \text{ Private/Company project } }
+$`\textcolor{red}{Private-Company Project}`$
 
 
 
