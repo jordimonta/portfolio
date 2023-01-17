@@ -15,7 +15,8 @@ The main idea is that a user can obtain the topK ranking products more similar t
 * ### Analyzing and predicting parking occupartion in different city areas 
 <span style="color: red;">(Private - Company Project)</span>
 <br>
-The objective of the project is to analyze and predict the occupation of the green and blue areas of a city based on data provided by sensors installed in the city
+The objective of the project is to analyze and predict the occupation of the green and blue areas of a city based on data provided by sensors installed in the city.
+BIG DATA project.
 
 <p float="left">
   <img src="/images/prediction.png" width="300" /> 
@@ -30,6 +31,17 @@ The method based on "Image retrieval system" allows us to choose the best algori
 The execution in milliseconds (CPU) is perfect for solutions in real time.
 
 <img src="images/similarity.png"/>
+
+* ### Image quality improvement for OCR systems 
+<span style="color: red;">(Private - Company Project)</span>
+<br> 
+The aim of the project is to develop  an algorithm that solves problems related with the non-uniform lighting (flash and shadow) for the improvement of OCR (Optical Character Recognition) systems.
+Scanned document images often have various defects, background noise, damaged areas, bleeding, and uneven background illumination. In this algorithm we mainly focus on non-uniform lighting, shadows and flash, which are often present in the document and influence the final visual quality and OCR accuracy.
+
+<p float="left">
+  <img src="images/ticket1.png" /> 
+  <img src="images/ticket2.png" />
+</p>
 <!-- Markdown link & img dfn's -->
 
 [header-url]:  images/portfolio_img.png
