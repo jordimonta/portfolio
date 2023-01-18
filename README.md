@@ -64,7 +64,7 @@ RFM analysis is a marketing technique used to quantitatively rank and group cust
 QLIK SENSE Dashboard
 <br> 
 </br>
-<img src="images/RFM.png" width="600"/>
+<img src="images/RFM.png" height="200"/>
 <!-- Markdown link & img dfn's -->
 
 [header-url]:  images/portfolio_img.png
