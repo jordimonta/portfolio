@@ -16,7 +16,8 @@ The main idea is that a user can obtain the topK ranking products more similar t
 <span style="color: red;">(Private - Company Project)</span>
 <br>
 The objective of the project is to analyze and predict the occupation of the green and blue areas of a city based on data provided by sensors installed in the city.
-BIG DATA project.
+<br>
+<strong>BIG DATA project and machine learning project</strong>
 
 <p float="left">
   <img src="/images/prediction.png" width="300" /> 
@@ -29,6 +30,7 @@ BIG DATA project.
 <br> 
 The method based on "Image retrieval system" allows us to choose the best algorithm based on the similarity between images and their features.
 The execution in milliseconds (CPU) is perfect for solutions in real time.
+<br>
 
 <img src="images/similarity.png"/>
 
@@ -37,6 +39,8 @@ The execution in milliseconds (CPU) is perfect for solutions in real time.
 <br> 
 The aim of the project is to develop  an algorithm that solves problems related with the non-uniform lighting (flash and shadow) for the improvement of OCR (Optical Character Recognition) systems.
 Scanned document images often have various defects, background noise, damaged areas, bleeding, and uneven background illumination. In this algorithm we mainly focus on non-uniform lighting, shadows and flash, which are often present in the document and influence the final visual quality and OCR accuracy.
+<br>
+<strong>Neural Network project</strong>
 
 <p float="left">
   <img src="images/ticket1.png" /> 
