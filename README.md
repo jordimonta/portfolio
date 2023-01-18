@@ -46,6 +46,25 @@ Scanned document images often have various defects, background noise, damaged ar
   <img src="images/ticket1.png" /> 
   <img src="images/ticket2.png" />
 </p>
+
+
+* ### Image grayscale conversion 
+<span style="color: red;">(Private - Company Project)</span>
+<br> 
+A grayscale conversion algorithm, preserving the original contrast and color discrimination.
+<br> 
+</br>
+<img src="images/1668371134737.jpeg" width="600"/>
+
+* ### Customer Segmentation - RFM analysis 
+<span style="color: red;">(Private - Company Project)</span>
+<br> 
+RFM analysis is a marketing technique used to quantitatively rank and group customers based on the recency, frequency and monetary total of their recent transactions to identify the best customers and perform targeted marketing campaign.
+<br> 
+QLIK SENSE Dashboard
+<br> 
+</br>
+<img src="images/RFM.png" width="600"/>
 <!-- Markdown link & img dfn's -->
 
 [header-url]:  images/portfolio_img.png
